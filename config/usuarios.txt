@@ -1,0 +1,42 @@
+Administradores>>>>
+
+1-)   username: eduardo
+      password: admin123
+
+2-)   username: alirio
+      password: admin123
+
+3-)   username: daniel
+      password: admin123
+
+4-)   username: alexis
+      password: admin123
+
+4-)   username: jorge
+      password: admin123
+
+Tecnicos>>>>>>
+
+1-)   username: juan
+      password: tecnico123
+
+2-)   username: carlos
+      password: tecnico123
+
+3-)   username: luis
+      password: tecnico123
+
+
+Clientes>>>>>>
+
+1-)   username: rocio
+      password: cliente123
+
+2-)   username: andrea
+      password: cliente123
+
+3-)   username: angy
+      password: cliente123
+
+4-)   username: rafael
+      password: cliente123
